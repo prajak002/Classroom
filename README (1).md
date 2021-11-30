@@ -1,4 +1,4 @@
-![](C:\Users\91790\Downloads\vlogo.jpeg)
+![](vlogo.jpeg)
 
 # V CLASSROOM
 
