@@ -1,4 +1,4 @@
-![](vlogo.jpeg)
+![](LOGO.jpeg)
 
 # V CLASSROOM
 
